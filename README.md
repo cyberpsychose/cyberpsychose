@@ -9,7 +9,7 @@
 
 - 💾 My Tryhackme account
 
-<script src="https://tryhackme.com/badge/2924606"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/cyberpsychose.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
