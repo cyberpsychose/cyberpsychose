@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **Pentest**
 
+- 💾 My Tryhackme account
+
+<script src="https://tryhackme.com/badge/2924606"></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0xt4tsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xt4tsu" height="30" width="40" /></a>
