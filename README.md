@@ -9,7 +9,6 @@
 
 - 💾 My Tryhackme account
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cyberpsychose.png" alt="TryHackMeeeeee">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
