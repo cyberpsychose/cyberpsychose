@@ -19,8 +19,7 @@
 <a href="https://discord.gg/cicada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cicada" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and  favorite OS:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<h3 align="left">Languages and  favorite OS/lab:</h3> 
  <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" alt="bash language" width="40" height="40"/> </a> </p>
-
 <p align="left"> <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000" alt="arch linux OS" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/119009827?v=4" alt="exegol lab" width="40" height="40"/> </a> </p>
