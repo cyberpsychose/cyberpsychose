@@ -9,10 +9,10 @@
 
 - 💾 My Tryhackme account
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cyberpsychose.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/cyberpsychose.png" alt="Your Image Badge" />
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : </h3>
 <p align="left">
 <a href="https://twitter.com/0xt4tsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xt4tsu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tatsuhq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tatsuhq/" height="30" width="40" /></a>
