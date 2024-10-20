@@ -9,7 +9,7 @@
 
 - 💾 My Tryhackme account
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cyberpsychose.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/cyberpsychose.png" alt="Good for health, bad for education." />
 
 [comment]: <> (This is a comment, it will not be included)
 <h3 align="left">Connect with me : </h3>
