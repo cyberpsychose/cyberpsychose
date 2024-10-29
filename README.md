@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **creating my own version of Exegol**
 
-- 🌱 I’m currently learning **Pentest**
+- 🌱 I’m currently learning **Cybersec**
 
 - 💾 My Tryhackme account
 
