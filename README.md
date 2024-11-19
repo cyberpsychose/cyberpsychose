@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Tatsu and I'm a Cybersec student from France</h2>
 
 ###
-
+![Devilman Crybaby - Ryô   Akira](https://github.com/user-attachments/assets/74cd7aaa-c418-4349-9fe5-6969e95a9e04)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cyberpsychose&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberpsychose&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -41,7 +41,7 @@
   </a>
 </div>
 
-![Devilman Crybaby - Ryô   Akira](https://github.com/user-attachments/assets/74cd7aaa-c418-4349-9fe5-6969e95a9e04)
+
 
 
 
