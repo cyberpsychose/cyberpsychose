@@ -40,6 +40,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+![Devilman Crybaby - Ryô   Akira](https://github.com/user-attachments/assets/74cd7aaa-c418-4349-9fe5-6969e95a9e04)
 
 
 
