@@ -1,25 +1,60 @@
-<h1 align="center">Hi 👋, I'm Tatsu !</h1>
-<h3 align="center">A passionate Cybersec student, CTF addict, and Bash developer</h3>
+<h2 align="left">Hi 👋! My name is Tatsu and I'm a Cybersec student from France</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberpsychose&label=Profile%20views&color=0e75b6&style=flat" alt="cyberpsychose" /> </p>
+###
 
-- 🔭 I’m currently working on **creating my own version of Exegol**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyberpsychose&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberpsychose&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🌱 I’m currently learning **Cybersec**
+###
 
-- 💾 My Tryhackme account
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="30" alt="zig logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+</div>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/edgerunner.png" alt="Your Image Badge" />
+###
 
-[comment]: <> (This is a comment, it will not be included)
-<h3 align="left">Connect with me : </h3>
-<p align="left">
-<a href="https://twitter.com/0xt4tsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xt4tsu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tatsuhq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tatsuhq/" height="30" width="40" /></a>
-<a href="https://discord.gg/cicada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cicada" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://discord.com/invite/n9P2et2xrv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://tryhackme.com/r/p/edgerunner" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+  </a>
+  <a href="https://www.instagram.com/tatsuhq/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-<h3 align="left">Languages and  favorite OS/lab:</h3> 
- <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" alt="bash language" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000" alt="arch linux OS" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/119009827?v=4" alt="exegol lab" width="40" height="40"/> </a> </p>
+###
+
+<img src="https://raw.githubusercontent.com/Cyberpsychose/Cyberpsychose/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/tonkpils">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tonkpils&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src=""  />
+
+###
